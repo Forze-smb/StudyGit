@@ -60,6 +60,15 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
+      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "620cc22a-4765-4bd6-89b2-71d5fb552405",
+      "Name": "Responsible",
+      "Code": "Responsible",
+      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
+    {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
       "NameGuid": "08938588-2fda-4256-a14c-8fa945130a14",
       "Name": "Note",

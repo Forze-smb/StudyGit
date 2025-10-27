@@ -58,13 +58,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Имя</value>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Примечание</value>
+  <data name="Resource_9b961223816a4946adb3ba72cfe1ab2d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_d24d6a706407421595c9aeba5a8e7fe7" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_d24d6a706407421595c9aeba5a8e7fe7_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_307a61e4e745415399e4b8a20f23ea2f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_1454d6426cc243c6aa414e141c05a67f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_1454d6426cc243c6aa414e141c05a67f_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_c5b99c415a8c4610be1a0f212123e07f" xml:space="preserve">
+    <value />
   </data>
 </root>
